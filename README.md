@@ -1,16 +1,16 @@
 # Excel
 Interactive Excel dashboard analyzing electronic sales using Pivot Tables, Charts, KPI cards, and Slicers.
-# 📊 Electronic Sales Dashboard (Excel)
+# 📊 Excel Dashboard Projects
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project analyzes an Electronic Sales dataset using Microsoft Excel. The dashboard provides insights into sales performance, product categories, payment methods, shipping methods, customer demographics, and monthly sales trends.
+This repository contains a collection of interactive dashboards created using Microsoft Excel. Each project focuses on analyzing different datasets through data cleaning, Pivot Tables, Pivot Charts, KPI cards, slicers, and business insights.
 
-The project demonstrates data cleaning, Pivot Tables, Pivot Charts, KPI cards, and interactive slicers.
+The purpose of this repository is to showcase practical Excel data analysis and dashboard development skills.
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -18,85 +18,37 @@ The project demonstrates data cleaning, Pivot Tables, Pivot Charts, KPI cards, a
 - Slicers
 - Data Cleaning
 - Excel Formulas
+- Conditional Formatting
 
 ---
 
-## 📂 Dataset
+## 📊 Dashboard Features
 
-**Source:** Kaggle – Electronic Sales Dataset
-
-Files Included:
-uncleaned_dataset_electronic
-Electronic_Sales_Cleaned.csv
-
----
-
-## 📈 Dashboard KPIs
-
-- 📦 Total Quantity Sold
-- 💰 Total Sales
-- 💲 Average Unit Price
-- ⭐ Average Customer Rating
+- KPI Cards
+- Interactive Slicers
+- Pivot Tables
+- Pivot Charts
+- Dynamic Dashboards
+- Business Insights
+- Data Cleaning
 
 ---
-
-## 📊 Dashboard Visualizations
-
-- Sales by Product Type
-- Sales by Payment Method
-- Sales by Shipping Type
-- Order Status Distribution
-- Sales by Gender
-- Monthly Sales Trend
-
----
-
-## 🎛️ Interactive Features
-
-- Product Type Slicer
-- Dynamic Pivot Tables
-- Interactive Pivot Charts
-- Dashboard Filtering
-
----
-
-## 💡 Key Business Insights
-
-- Smartphones generated the highest sales revenue.
-- Standard shipping was the most frequently used shipping method.
-- Completed orders significantly outnumbered cancelled orders.
-- Monthly sales increased during the first half of 2024 before declining towards September.
-- Customer purchasing patterns varied slightly by gender.
-- Payment methods were distributed across multiple options without a single dominant choice.
-
----
-
-## 📁 Repository Structure
-
-```
-Electronic-Sales-Excel-Dashboard
-│
-├── Dataset
-│   ├── uncleaned_dataset_electronic
-│   └── Electronic_Sales_Cleaned.csv
-│
-├── Dashboard
-│   └── Book1.xlsx
-│
-├── Data Cleaning
-│   └── laptop_sales
-```
 
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
-- Excel Dashboard Development
-- Pivot Tables
-- Pivot Charts
-- KPI Design
+- Dashboard Design
 - Data Visualization
-- Interactive Reporting
+- Business Intelligence
+- KPI Development
+- Excel Reporting
+
+---
+
+## 🎯 Objective
+
+The objective of this repository is to demonstrate Excel dashboard development skills by analyzing real-world datasets and presenting meaningful business insights through interactive visualizations.
 
 ---
 
